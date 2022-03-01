@@ -1,1 +1,2 @@
+主要用于将json文件提取到TXT文档中；
 将json文件全部存放于JsonFile文件夹下，同时在同目录下新建文件夹为Result，运行py文件，将自动把Json文件提取到txt文件中
